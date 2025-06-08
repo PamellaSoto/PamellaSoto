@@ -4,6 +4,6 @@
 
 **I am a full-stack web developer and digital artist.** I love programming, reading novels, and spending time with loved ones.
 
-As a developer, I’m a highly organized person who enjoys building well-thought-out projects—creating products that make people happy.
+As a developer, I’m a highly organized person who enjoys building well-thought-out projects that make people happy.
 
 Happy and excited to create!
