@@ -1,9 +1,30 @@
-# Hello! I am [Pamella Sotomayor](https://www.linkedin.com/in/web-pamella-lopes/) <a href="https://www.aswinbarath.me/"><img src="https://cdn3.emoji.gg/emojis/8925-pastelsparkling-stars.gif" width="45px"></a> 
-[![Linkedin Badge](https://img.shields.io/badge/-PamellaSotomayor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/web-pamella-lopes/)
-[![Gmail Badge](https://img.shields.io/badge/-pamellasoto.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pamellasoto.dev@gmail.com)](mailto:pamellasoto.dev@gmail.com)
+[Pamella Soto Cover](./pamella-soto.jpg)
 
-**I am a full-stack web developer and digital artist.** I love programming, reading novels, and spending time with loved ones.
+**I’m a full-stack web developer and UI/UX designer.**  
 
-As a developer, I’m a highly organized person who enjoys building well-thought-out projects that make people happy.
+As a developer, I’m highly organized and passionate about building **well-structured projects** with clear documentation, thoughtful architecture, intuitive UI, and a strong focus on **accessibility and user experience**.
+In my free time, you'll find me watching series, reading short novels, or spending time with the people I love.
 
-Happy and excited to create!
+## 🔍 Where to find me
+
+- Sharing my projects and writing (in Portuguese) on [LinkedIn](https://www.linkedin.com/in/seu-usuario) 📚
+- Freelancing at [novawebstudios.com](https://novawebstudios.com) *(work in progress!)* 💼
+- Or just say hi: **pamellasoto.dev@gmail.com** 📬
+
+## 🛠 Technologies I work with
+
+- **Front-end:** HTML, CSS, JavaScript, Bootstrap, SASS, Tailwind, React  
+- **Back-end:** Node.js, Java, MySQL, PostgreSQL 
+- **Other tools:** Git, Figma, WordPress, Canva
+
+## 📚 Currently learning
+
+- Object-Oriented Programming (JavaScript)  
+- Node.js and React Native
+- Mobile-first responsive web design
+
+---
+
+✨ I'm always excited to connect, collaborate, or help with new ideas.  
+**Feel free to reach out — let's build something awesome together!**
+
