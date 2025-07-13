@@ -29,8 +29,3 @@ I’m constantly pushing myself to grow and deliver the best results possible.
 - Sharing my projects and writing (in Portuguese) on [LinkedIn](https://www.linkedin.com/in/seu-usuario) 📚
 - Freelancing at [novawebstudios.com](https://novawebstudios.com) *(work in progress!)* 💼
 - Or just say hi: **pamellasoto.dev@gmail.com** 📬
----
-
-✨ I'm always excited to connect, collaborate, or help with new ideas.  
-**Feel free to reach out!**
-
