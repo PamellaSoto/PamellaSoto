@@ -8,11 +8,11 @@ Currently studying Full-Stack Web Development *(Sistemas para Internet)* at Facu
 
 Outside of coding, I recharge by watching series, reading short novels, and spending time with the people I love. I’m always open to learning, building, and connecting — **let’s create something remarkable together.**
 
-## 📚 Currently improving myself on:
+## 📚 Currently improving myself by learning:
 
-- Object-Oriented Programming (JavaScript)  
-- Node.js and React Native
-- Mobile-first responsive web design
+- Object-Oriented Programming (Java)  
+- RESTful APIs
+- React with TailwindCSS
 
 I’m constantly pushing myself to grow and deliver the best results possible.
 
