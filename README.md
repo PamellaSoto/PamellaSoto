@@ -10,7 +10,7 @@ Outside of coding, I recharge by watching series, reading short novels, and spen
 
 ## 📚 Currently improving myself by learning:
 
-- Object-Oriented Programming (Java)  
+- Spring Boot
 - RESTful APIs
 - React with TailwindCSS
 
